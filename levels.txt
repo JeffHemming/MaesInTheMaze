@@ -1,0 +1,51 @@
+5
+8 8
+Maes's brother and sisters have been taken into the Maze, and it is up to Maes to rescue them.  Watch out for the lasers!
+-11 1 0 0 0 1 0 0
+0 -1 0 0 0 22 0 1
+1 1 0 0 0 0 0 1
+1 -1 0 1 0 0 0 -1
+1 0 23 1 1 0 1 0
+-1 0 0 -1 -1 0 -1 0
+0 1 0 1 24 0 0 1
+0 1 0 -1 0 0 0 -99
+8 8
+Well, this looks easy.
+-11 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 1
+0 1 23 24 21 22 1 1
+0 0 0 0 0 0 -99 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+8 8
+Maes continues deep into the Maze...
+-11 1 0 0 0 0 0 0
+0 1 1 0 0 0 0 1
+0 0 0 0 22 0 0 1
+0 0 0 0 0 0 0 0
+0 21 0 0 0 23 0 0
+1 0 0 0 24 0 0 0
+0 0 0 22 0 0 0 1
+21 0 0 0 0 0 0 -99
+8 8
+There's something different about those green lasers...
+0 0 1 -11 0 1 0 0
+0 0 0 0 0 0 0 0
+0 0 31 0 0 21 0 0
+0 32 0 0 0 0 22 0
+33 0 0 0 0 0 0 23
+0 34 0 0 0 0 24 0
+0 0 31 0 0 21 0 0
+0 0 0 0 -99 0 0 0
+8 8
+Well, we've got quite the cluster-cuss going on here.
+0 0 23 31 24 31 22 0
+0 -11 0 0 0 0 0 0
+33 0 0 0 0 0 0 22
+23 0 0 0 0 0 0 34
+24 0 0 0 0 0 0 22
+31 0 0 0 0 0 0 33
+24 0 0 0 0 0 -99 32
+0 0 21 23 32 33 22 0
